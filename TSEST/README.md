@@ -3,4 +3,4 @@
 ### 자료형 변환
 int n2 = int.Parse(textBox3.Text);
 문자열을 인트로 변환
-parse
+변환 : parse
